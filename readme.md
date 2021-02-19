@@ -1,29 +1,31 @@
 # Imprimatur JavaScript Developer Test
 
-## Install
+## How to complete the test
+
+Clone the repository to you computer and install the dependencies:
 
 ```bash
 npm i
 ```
 
-## What to do
+When you have completed the test, either create your own repository to store your project (Github/BitBucket/Gitlab are all fine), then send us a link to the repository or just ZIP the files and send them stright to us (phil.lane@imprimatur.co.uk).
 
-1. In the src folder there is a search function empty.
-2. Your task is to fill the function body to pass all tests written in jest.
-3. The idea of this test project is to determine your skill level as a JavaScript developer.
-4. The task is to write an object search function that can take an array of data (param data) objects, a search object (param query) and then return an array of results.
-5. Please feel free to extend the test, if you would like to dempnstrate extensive knowledge about testing.
+## The test
+
+In the file src/search.js there is an empty function. Your task is to create a function that passes all tests (src/tests/search.test.js) that are written using jest.
+The search function takes two parameters: 1) data - an object to search; in this case the contents of src/data.js and 2) query an object that represents the search to perform.
+
+Please feel free to extend the function and tests, if you would like to demonstrate further knowledge.
 
 ## Requirements
 
-1.  Please note the time is not the case for this task, however we estimate, it should not take more then 45 mins to finish it.
-2.  Please do not give up, if something is not finish (nobody knows everything), we can always discuss a possible solution.
-3.  Please do not stop yourself from google anything, while doing this test project, please feel free to use it. It certainly will not count against you.
-4.  Having any doubts or something is not clear for you, please write the comments, so we can discuss it with you, when seeing each other again. The best developers are people, who ask the questions and communicate.
-5.  Use all the tools available to you such as IDEs and debuggers as required.
-6.  Please try to write a clean code, that does not rely on any third party libraries or frameworks (just javascript).
+1.  There is no time limit for the task however we would like you to let us know how long it has taken you complete, including research time if necessary.
+2.  Don't worry if you are unable to complete the test (nobody knows everything), we can always discuss your solution as it stands.
+3.  Please feel free to reasearch the problem, just remember to include this time when you let us know how long it took you to complete the test.
+4.  Please use all the tools available to you such as IDEs and debuggers as required.
+5.  Please try to write clean code, that does not rely on any third party libraries or frameworks, just javascript (ES6+ is fine!).
 
-Search objects are written in Mongo query language. For instance, given this example data object:
+The query objects are written in Mongo query language. For instance, given this example data object:
 
 ```json
 [
@@ -65,4 +67,4 @@ Running the above query against the above data array should result in:
 ]
 ```
 
-Good luck ;)
+Good luck!

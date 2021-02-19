@@ -1,3 +1,3 @@
-module.exports = (data, query) => { 
-    // write your code here
+module.exports = (data, query) => {
+  // write your code here
 }
