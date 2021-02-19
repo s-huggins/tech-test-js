@@ -60,8 +60,8 @@ Running the above query against the above data array should result in:
 [
   {
     "id": 1,
-    "foo": {
-      "bar": true
+    "objectKey": {
+      "settings": true
     }
   }
 ]
