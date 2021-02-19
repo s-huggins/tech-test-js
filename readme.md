@@ -2,7 +2,7 @@
 
 ## How to complete the test
 
-Clone the repository to you computer and install the dependencies:
+Clone the repository to your computer and install the dependencies:
 
 ```bash
 npm i
