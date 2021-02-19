@@ -18,7 +18,7 @@ describe('Search Test', () => {
   })
 
   test(`When a blank query object is specified it will return all data`, () => {
-    const results = search(data, {})
+    const results = search(data, [])
     expect(results.length).toBe(5)
   })
 
