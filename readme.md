@@ -1,4 +1,4 @@
-# Imprimatur JavaScript Developer Test
+# Coding Ketchup JavaScript Developer Test
 
 ## How to complete the test
 
@@ -8,7 +8,7 @@ Clone the repository to your computer and install the dependencies:
 npm i
 ```
 
-When you have completed the test, either create your own repository to store your project (Github/BitBucket/Gitlab are all fine), then send us a link to the repository or just ZIP the files and send them stright to us (phil.lane@imprimatur.co.uk).
+When you have completed the test, either create your own repository to store your project (Github/BitBucket/Gitlab are all fine), then send us a link to the repository or just ZIP the files and send them stright to us (phil.lane@codinketchup.com).
 
 ## The test
 
