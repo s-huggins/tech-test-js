@@ -8,7 +8,7 @@ Clone the repository to your computer and install the dependencies:
 npm i
 ```
 
-When you have completed the test, either create your own repository to store your project (Github/BitBucket/Gitlab are all fine), then send us a link to the repository or just ZIP the files and send them stright to us (phil.lane@codinketchup.com).
+When you have completed the test, either create your own repository to store your project (Github/BitBucket/Gitlab are all fine), then send us a link to the repository or just ZIP the files and send them straight to us (phil.lane@codinketchup.com).
 
 ## The test
 
